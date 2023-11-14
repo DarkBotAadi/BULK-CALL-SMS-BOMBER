@@ -58,7 +58,7 @@ pkg install git wget python3 -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+git clone https://github.com/DarkBotAadi/BULK-CALL-SMS-BOMBER.git
 ```
 Go to the Aadi directory
 ```bash
@@ -83,7 +83,7 @@ apt-get install git wget python3 -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/anubhavanonymous/XLR8_BOMBER
+git clone https://github.com/DarkBotAadi/BULK-CALL-SMS-BOMBER.git
 ```
 Go to the Xlr8 directory
 ```bash
@@ -93,10 +93,6 @@ Run the script
 ```bash
 sudo python3 xlr8.py
 ```
-
-## Anonymous Msg Passcode
-
-You'll get that in the telegram channel !
 
 ## Version
 * `3.1.8 CI aplha`
@@ -110,28 +106,9 @@ You'll get that in the telegram channel !
 * `This bomber only works in India !!`
 
 ## Licence
-Apache 2.0 © Anubhav Kashyap
+Apache 2.0 © Aadi
 
-
-## Screenshots (Termux)
-
-<br>
-<p align="center">
-<img width="48%" src="screenshots/IMG_20210531_101730.jpg"/>
-<img width="48%" src="screenshots/IMG_20210530_164910.jpg"/>
-</p>
-<p align="centre">
-<img width="48%" src="screenshots/IMG_20210530_165509.jpg"/>
-<img width="48%" src="screenshots/IMG_20210530_165506.jpg"/>
-</p>
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `mail us at: anubhavkashyap@pm.me`
-
-## Telegram Channel
-
-* `All updates of Xlr8 will be posted here !`
-
-<a href="https://t.me/xlr8bomber">
-         <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
+* `mail us at: hiaadi@duck.com`
