@@ -1,4 +1,4 @@
-## BreadcrumbsBULK-CALL-SMS-BOMBER by Aadi  
+## BULK-CALL-SMS-BOMBER by Aadi  
 
 * `💣 📱 💀`<br />
 * `A Superfast SMS & Call bomber for Linux And Termux !`
