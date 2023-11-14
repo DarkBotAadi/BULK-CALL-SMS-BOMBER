@@ -1,6 +1,4 @@
-<h1 align="center">XLR8 BOMBER 3.0
-<img src="logo.jpg"><br>
-</h1>
+## BreadcrumbsBULK-CALL-SMS-BOMBER by Aadi  
 
 * `💣 📱 💀`<br />
 * `A Superfast SMS & Call bomber for Linux And Termux !`
@@ -62,13 +60,13 @@ Clone the repository
 ```bash
 git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 ```
-Go to the Xlr8 directory
+Go to the Aadi directory
 ```bash
 cd XLR8_BOMBER
 ```
 Run the script
 ```bash
-python xlr8.py
+python aadi.py
 ```
 
 
