@@ -62,7 +62,7 @@ git clone https://github.com/anubhavanonymous/XLR8_BOMBER
 ```
 Go to the Aadi directory
 ```bash
-cd XLR8_BOMBER
+cd BULK-CALL-SMS-BOMBER
 ```
 Run the script
 ```bash
